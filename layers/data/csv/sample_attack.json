@@ -1444,7 +1444,7 @@
     "gradient": {
         "colors": [
             "#ffffff",
-            "#ff6666"
+            "#66ff66"
         ],
         "minValue": 0,
         "maxValue": "50"
