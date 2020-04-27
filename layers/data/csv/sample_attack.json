@@ -10,36 +10,11 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1002",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1003",
             "score": "50",
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1004",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1005",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1006",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1007",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1008",
             "score": "100",
             "color": "#66ff66"
@@ -53,16 +28,6 @@
             "techniqueID": "T1008",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1009",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1010",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1011",
@@ -115,21 +80,6 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1015",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1016",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1017",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1018",
             "score": "100",
             "color": "#66ff66"
@@ -148,11 +98,6 @@
             "techniqueID": "T1018",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1019",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1020",
@@ -160,31 +105,6 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1021",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1022",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1023",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1024",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1025",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1026",
             "score": "100",
             "color": "#66ff66"
@@ -198,11 +118,6 @@
             "techniqueID": "T1026",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1027",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1028",
@@ -265,31 +180,11 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1032",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1033",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1034",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1035",
             "score": "50",
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1036",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1037",
             "score": "100",
             "color": "#66ff66"
@@ -308,31 +203,6 @@
             "techniqueID": "T1037",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1038",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1039",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1040",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1041",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1042",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1043",
@@ -376,11 +246,6 @@
         },
         {
             "techniqueID": "T1044",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1045",
             "score": "50",
             "color": "#80ff80"
         },
@@ -510,36 +375,6 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1049",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1050",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1051",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1052",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1053",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1054",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1055",
             "score": "50",
             "color": "#80ff80"
@@ -550,46 +385,11 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1057",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1058",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1059",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1060",
             "score": "50",
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1061",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1062",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1063",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1064",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1065",
             "score": "100",
             "color": "#66ff66"
@@ -628,21 +428,6 @@
             "techniqueID": "T1065",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1065",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1066",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1067",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1068",
@@ -650,41 +435,6 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1069",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1070",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1071",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1072",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1073",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1074",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1075",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1076",
             "score": "100",
             "color": "#66ff66"
@@ -693,46 +443,6 @@
             "techniqueID": "T1076",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1077",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1078",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1079",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1080",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1081",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1082",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1083",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1084",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1085",
@@ -741,11 +451,6 @@
         },
         {
             "techniqueID": "T1086",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1087",
             "score": "50",
             "color": "#80ff80"
         },
@@ -790,76 +495,6 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1091",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1092",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1093",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1094",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1095",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1096",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1097",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1098",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1099",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1100",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1101",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1102",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1103",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1104",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1105",
             "score": "100",
             "color": "#66ff66"
@@ -870,26 +505,6 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1106",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1107",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1108",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1109",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1110",
             "score": "100",
             "color": "#66ff66"
@@ -918,29 +533,9 @@
             "techniqueID": "T1110",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1111",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1112",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1113",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1114",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1115",
             "score": "50",
             "color": "#80ff80"
         },
@@ -955,336 +550,6 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1118",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1119",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1120",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1121",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1122",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1123",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1124",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1125",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1126",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1127",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1128",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1129",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1130",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1131",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1132",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1133",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1134",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1135",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1136",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1137",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1138",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1139",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1140",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1141",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1142",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1143",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1144",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1145",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1146",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1147",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1148",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1149",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1150",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1151",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1152",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1153",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1154",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1155",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1156",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1157",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1158",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1159",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1160",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1161",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1162",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1163",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1164",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1165",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1166",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1167",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1168",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1169",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1170",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1171",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1172",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1173",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1174",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1175",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1176",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1177",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1178",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1179",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1180",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1181",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1182",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1183",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1184",
             "score": "100",
             "color": "#66ff66"
@@ -1295,21 +560,6 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1185",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1186",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1187",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1188",
             "score": "100",
             "color": "#66ff66"
@@ -1338,16 +588,6 @@
             "techniqueID": "T1188",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1189",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1190",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1191",
@@ -1360,66 +600,11 @@
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1193",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1194",
             "score": "100",
             "color": "#66ff66"
         },
         {
-            "techniqueID": "T1195",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1196",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1197",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1198",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1199",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1200",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1201",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1202",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1203",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1204",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1205",
             "score": "100",
             "color": "#66ff66"
@@ -1458,16 +643,6 @@
             "techniqueID": "T1205",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1206",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1207",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1208",
@@ -1478,91 +653,6 @@
             "techniqueID": "T1208",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1209",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1210",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1211",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1212",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1213",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1214",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1215",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1216",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1217",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1218",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1219",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1220",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1221",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1222",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1223",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1480",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1482",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1483",
@@ -1600,66 +690,11 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1487",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1488",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1489",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1490",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1491",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1492",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1493",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1494",
             "score": "50",
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1495",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1496",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1497",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1498",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1499",
             "score": "100",
             "color": "#66ff66"
@@ -1673,26 +708,6 @@
             "techniqueID": "T1499",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1500",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1501",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1502",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1503",
-            "score": "50",
-            "color": "#80ff80"
         },
         {
             "techniqueID": "T1504",
@@ -1700,86 +715,6 @@
             "color": "#80ff80"
         },
         {
-            "techniqueID": "T1505",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1506",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1514",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1518",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1519",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1522",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1525",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1526",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1527",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1528",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1529",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1530",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1531",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1534",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1535",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1536",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
             "techniqueID": "T1537",
             "score": "100",
             "color": "#66ff66"
@@ -1788,16 +723,6 @@
             "techniqueID": "T1537",
             "score": "100",
             "color": "#66ff66"
-        },
-        {
-            "techniqueID": "T1538",
-            "score": "50",
-            "color": "#80ff80"
-        },
-        {
-            "techniqueID": "T1539",
-            "score": "50",
-            "color": "#80ff80"
         }
     ],
     "gradient": {
