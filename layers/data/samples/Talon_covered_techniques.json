@@ -1,0 +1,20 @@
+{
+    "description": "All techniques that SAS Talon can detect",
+    "version": "2.2",
+    "name": "SAS Talon covered techniques",
+    "domain": "mitre-enterprise",
+    "techniques": [
+        {
+            "color": "#ff6666",
+            "comment": "Anomaly type algorithm",
+            "techniqueID": "T1045"
+        }
+
+    ],
+    "legendItems": [
+        {
+            "label": "SAS Talon covered techniques",
+            "color": "#ff6666"
+        }
+    ]
+}
