@@ -1447,6 +1447,6 @@
             "#66ff66"
         ],
         "minValue": 0,
-        "maxValue": "50"
+        "maxValue": 100
     }
 }
