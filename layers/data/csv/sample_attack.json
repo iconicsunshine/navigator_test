@@ -580,5 +580,13 @@
             "techniqueID": "T1537",
             "score": "100"
         }
-    ]
+    ],
+    "gradient": {
+        "colors": [
+            "#ff6666",
+            "#66ff66"
+        ],
+        "minValue": 0,
+        "maxValue": 100
+    }
 }
